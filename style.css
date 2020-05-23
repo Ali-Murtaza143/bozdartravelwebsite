@@ -1,0 +1,32 @@
+
+
+.navbar
+{
+    background-color:brown !important;
+}
+
+
+
+
+
+
+
+.footer{
+    background-color: rgb(37, 39, 46) !important;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+.footer h2{
+    font-size: x-large;
+    margin-bottom: 20px;
+}
+.footer-icon img{
+    width: 25px;
+}
+.fa{
+    color: #427900;
+    margin-right:10px !important;
+    margin-left: 10px !important;
+}
